@@ -5,6 +5,10 @@ Soy un científico de datos con enfoque en análisis de datos productivos, salud
 
 ## 📊 Proyectos destacados
 
+### 📈 Análisis de casos COVID global
+- Herramientas: Python, Pandas, Matplotlib, Seaborn
+- [Ver notebook en GitHub](https://github.com/jcmartinezreyes/covid_global_cases)
+
 ### 📈 Análisis de desempleo en Colombia
 - Herramientas: Python, Pandas, Matplotlib
 - [Ver notebook en GitHub](https://github.com/usuario/proyecto1)
