@@ -13,14 +13,10 @@ Soy un científico de datos con enfoque en análisis de datos productivos, salud
 - Herramientas: Tableau.
 - [Ver Dashboard](https://jcmartinezreyes.github.io/Projects/Global_indicators/index.html)
 
-### 📈 Análisis de desempleo en Colombia
-- Herramientas: Python, Pandas, Matplotlib
-- [Ver notebook en GitHub](https)
-
-
 ## 🧰 Tecnologías que uso
-Python, SQL, Pandas, Power BI, Tableau, Scikit-learn
+Python, SQL, Pandas, Power BI, 
+Tableau, Scikit-learn
 
 ## 📫 Contacto
-- LinkedIn: [Mi perfil](https://linkedin.com/in/tuusuario)
-- GitHub: [Mis repositorios](https://github.com/tuusuario)
+- LinkedIn: [Mi perfil](https://www.linkedin.com/in/jcmartinezreyes/)
+- Correo: jcmartinezreyes28@gmail.com
