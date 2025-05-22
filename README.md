@@ -7,7 +7,7 @@ Soy un científico de datos con enfoque en análisis de datos productivos, salud
 
 ### 📈 Análisis de casos COVID global
 - Herramientas: Python, Pandas, Matplotlib, Seaborn.
-- [Ver notebook en GitHub](https://jcmartinezreyes.github.io/Projects/COVID_global/covid-global-cases.ipynb)
+- [Ver notebook en kaggle](https://www.kaggle.com/code/jcmartinezr28/covid-global-cases)
 
 ### 📈 Análisis de indicadores globales
 - Herramientas: Tableau.
