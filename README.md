@@ -11,7 +11,7 @@ Soy un científico de datos con enfoque en análisis de datos productivos, salud
 
 ### 📈 Análisis de indicadores globales
 - Herramientas: Tableau.
-- [Ver Dashboard](https://jcmartinezreyes.github.io/Projects/Global_indicators/index.html)
+- [Ver Dashboard](https:jcmartinezreyes.github.io/Projects/Global_indicators/index.html)
 
 ## 🧰 Tecnologías que uso
 Python, SQL, Pandas, Power BI, 
